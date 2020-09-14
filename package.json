@@ -27,8 +27,7 @@
     "gulp-webp": "^4.0.1",
     "gulp-webp-css": "^1.1.0",
     "gulp-webp-html": "^1.0.2",
-    "normalize.css": "^8.0.1",
-    "slick-carousel": "^1.8.1"
+    "normalize.css": "^8.0.1"
   },
   "browserslist": [
     "last 1 version",
